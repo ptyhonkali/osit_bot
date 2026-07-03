@@ -1,0 +1,20 @@
+                                                                                                                 
+┌──(.venv)─(night㉿night)-[~/bot/osint]
+└─$ python3 app.py
+INFO:root:✅ OSINT Bot ishga tushdi...
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @argusvault_bot id=8900585112 - 'Black Vault 💽'
+INFO:aiogram.event:Update id=927405082 is handled. Duration 568 ms by bot id=8900585112
+>>> search_user() chaqirildi
+INFO:telethon.network.mtprotosender:Connecting to 149.154.167.51:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 149.154.167.51:443/TcpFull complete!
+Query: @n1ghts8
+Username: n1ghts8
+ResolvedPeer(peer=PeerUser(user_id=1641126491), chats=[], users=[User(id=1641126491, is_self=True, contact=True, mutual_contact=True, deleted=False, bot=False, bot_chat_history=False, bot_nochats=False, verified=False, restricted=False, min=False, bot_inline_geo=False, support=False, scam=False, apply_min_photo=False, fake=False, bot_attach_menu=False, premium=False, attach_menu_enabled=False, bot_can_edit=False, close_friend=False, stories_hidden=False, stories_unavailable=True, contact_require_premium=False, bot_business=False, bot_has_main_app=False, access_hash=8755512499078307802, first_name='Davron Sayfullayev', last_name=None, username='n1ghts8', phone='998950590811', photo=UserProfilePhoto(photo_id=5456320504764953247, dc_id=2, has_video=False, personal=False, stripped_thumb=b'\x01\x08\x08\xcb\xfd\xe7\x9b\xdf~h\xa2\x8a\x00'), status=UserStatusOffline(was_online=datetime.datetime(2026, 7, 3, 16, 47, 32, tzinfo=datetime.timezone.utc)), bot_info_version=None, restriction_reason=[], bot_inline_placeholder=None, lang_code=None, emoji_status=None, usernames=[], stories_max_id=None, color=None, profile_color=None, bot_active_users=None, bot_verification_icon=None, send_paid_messages_stars=None)])
+User(id=1641126491, is_self=True, contact=True, mutual_contact=True, deleted=False, bot=False, bot_chat_history=False, bot_nochats=False, verified=False, restricted=False, min=False, bot_inline_geo=False, support=False, scam=False, apply_min_photo=False, fake=False, bot_attach_menu=False, premium=False, attach_menu_enabled=False, bot_can_edit=False, close_friend=False, stories_hidden=False, stories_unavailable=True, contact_require_premium=False, bot_business=False, bot_has_main_app=False, access_hash=8755512499078307802, first_name='Davron Sayfullayev', last_name=None, username='n1ghts8', phone='998950590811', photo=UserProfilePhoto(photo_id=5456320504764953247, dc_id=2, has_video=False, personal=False, stripped_thumb=b'\x01\x08\x08\xcb\xfd\xe7\x9b\xdf~h\xa2\x8a\x00'), status=UserStatusOffline(was_online=datetime.datetime(2026, 7, 3, 16, 47, 32, tzinfo=datetime.timezone.utc)), bot_info_version=None, restriction_reason=[], bot_inline_placeholder=None, lang_code=None, emoji_status=None, usernames=[], stories_max_id=None, color=None, profile_color=None, bot_active_users=None, bot_verification_icon=None, send_paid_messages_stars=None)
+INFO:aiogram.event:Update id=927405083 is handled. Duration 1859 ms by bot id=8900585112
+^CWARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @argusvault_bot id=8900585112 - 'Black Vault 💽'
+INFO:aiogram.dispatcher:Polling stopped
+^CWARNING:aiogram.dispatcher:Received SIGINT signal
+                                                           
