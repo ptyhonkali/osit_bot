@@ -8,8 +8,9 @@ import asyncio
 from config import BOT_TOKEN
 from handlers.start import router as start_router
 from handlers.search import router as search_router
-
+from database.init_db import init_db
 async def main():
+    await init_db()
     logging.basicConfig(level=logging.INFO)
 
     bot = Bot(

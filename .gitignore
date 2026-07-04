@@ -1,0 +1,5 @@
+.env
+sessions/
+database/*.db
+downloads/
+__pycache__/
